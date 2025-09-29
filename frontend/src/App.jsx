@@ -3,8 +3,7 @@ import React, { useEffect, useState } from 'react'
 import { Play, Settings, Moon, Sun } from 'lucide-react'
 import { motion } from 'framer-motion'
 
-const API = import.meta.env.VITE_API_URL || 'https://nim-ai-game-4.onrender.com/
-'
+const API = import.meta.env.VITE_API_URL || 'https://nim-ai-game-4.onrender.com/';
 
 function Pile({ index, count, onSelect, selected }){
   return (
