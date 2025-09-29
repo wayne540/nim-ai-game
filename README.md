@@ -115,7 +115,7 @@ Through thousands of self-play games, the AI **discovers the optimal strategy**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Backend**: Python, Q-learning logic, optional FastAPI/Flask for serving AI
 * **Frontend**: React, Tailwind CSS, Framer Motion
